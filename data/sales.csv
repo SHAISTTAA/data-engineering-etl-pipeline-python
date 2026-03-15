@@ -1,1 +1,11 @@
-
+order_id,customer_name,product,category,price,quantity,date
+1001,Amit Sharma,Laptop,Electronics,55000,1,2025-02-01
+1002,Riya Patel,Phone,Electronics,25000,2,2025-02-02
+1003,Rahul Mehta,Headphones,Electronics,3000,3,2025-02-03
+1004,Neha Singh,Desk Chair,Furniture,7000,1,2025-02-03
+1005,Vikram Rao,Monitor,Electronics,15000,2,2025-02-04
+1006,Sneha Gupta,Keyboard,Electronics,1200,4,2025-02-05
+1007,Arjun Kapoor,Office Desk,Furniture,12000,1,2025-02-06
+1008,Pooja Verma,Mouse,Electronics,800,5,2025-02-06
+1009,Karan Malhotra,Tablet,Electronics,22000,1,2025-02-07
+1010,Meera Iyer,Lamp,Furniture,2000,2,2025-02-07
